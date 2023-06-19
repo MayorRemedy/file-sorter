@@ -1,0 +1,17 @@
+body{
+    background-color: 
+    rgb(241, 220, 194);
+    text-align: center;
+    padding: 20px;
+}
+#uploadform{
+    color: blueviolet;
+}
+#fileList{
+    color: rgb(14, 4, 73);
+}
+.sort{
+    border-radius: 50px;
+    
+    color: darkorange;
+}
